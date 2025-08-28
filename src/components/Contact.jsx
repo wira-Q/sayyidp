@@ -30,7 +30,6 @@ export default function Contact() {
         </div>
       </div>
       <img src="/contact.jpg" alt="Contact illustration" />
-      <img src="/kucing meme.jpg" alt="sdads" />
     </section>
   );
 }

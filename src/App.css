@@ -306,13 +306,7 @@ html {
   height: auto;
   border-radius: 8px;
 }
-.contact-info { flex: 1; min-width: 280px; font-size: 18px; }
-.contact img {
-  width: 100%;
-  max-width: 280px;
-  height: auto;
-  border-radius: 8px;
-}
+
 
 /* ==== FOOTER ==== */
 .footer {
